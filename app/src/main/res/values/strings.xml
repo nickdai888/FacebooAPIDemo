@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookLoginDemo</string>
+    <string name="facebook_app_id">159475801127212</string>
+    <string name= "share">Sydney is a beautiful city!</string>
+</resources>
